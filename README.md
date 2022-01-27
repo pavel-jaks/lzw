@@ -49,4 +49,4 @@ I should also mention that this program was developed as a part of my completion
 of the computer graphics 1 (POGR1) course held during my undergrad studies of mathematical computer science
 on Faculty of Nuclear Sciences and Physical Engineering of Czech Technical University in Prague.
 ___
-© Pavel Jakš, 2022
+© Pavel Jakš, 2021/2022
